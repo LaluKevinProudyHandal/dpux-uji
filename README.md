@@ -1,4 +1,4 @@
-# Dynamic Privacy UX — paket uji (versi 0.3.1)
+# Dynamic Privacy UX — paket uji (versi 0.3.2)
 
 Purwarupa extension Chrome untuk penelitian. Saat kamera mendeteksi orang lain menatap layar, data sensitif di halaman
 (saldo, nomor rekening, NIK, kode OTP, kata sandi) disamarkan. Wajah diproses langsung di laptop; tidak ada gambar
@@ -6,7 +6,7 @@ yang disimpan atau dikirim.
 
 ## Cara pasang (±3 menit)
 
-1. Klik **dynamic-privacy-ux-0.3.1.zip** di atas → **Download** (ikon unduh di kanan).
+1. Klik **dynamic-privacy-ux-0.3.2.zip** di atas → **Download** (ikon unduh di kanan).
 2. Ekstrak zip ke Desktop → muncul folder `dynamic-privacy-ux`.
 3. Di Chrome buat profil baru: ikon profil kanan atas → **Tambah** → **Lanjutkan tanpa akun** → nama **Uji**.
 4. Di profil Uji buka `chrome://extensions` → nyalakan **Developer mode** → **Load unpacked** → pilih folder `dynamic-privacy-ux`.
